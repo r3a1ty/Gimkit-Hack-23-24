@@ -1,6 +1,6 @@
 # Gimkit-Hack-23-24
 
-#SETTING UP OVERIDES
+# SETTING UP OVERIDES
 
 Tested browsers that support local overrides
 Chrome and Edge
